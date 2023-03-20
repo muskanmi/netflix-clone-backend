@@ -24,6 +24,7 @@ The source code for the frontend of the application is present [here](https://gi
 
 - React.js
 - NodeJS
+- ExpressJs
 - HTML
 - CSS
 - Javascript
