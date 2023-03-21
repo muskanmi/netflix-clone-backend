@@ -15,10 +15,10 @@ The source code for the frontend of the application is present [here](https://gi
 
 ## Features:
 
-- User Authentication: User can signup on the platform to explore the vast variety of movies, tv shows, etc. (User authentication is being performed with the help of Firebase in this application.)
-- Users can browse over a wide variety of shows, movies and series and explore them category wise as well.
-- Users can also filter the content by different Genres.
-- It also provides users ability to add their favorite shows & movies to their watch list.
+- **User Authentication:** User can signup on the platform to explore the vast variety of movies, tv shows, etc. (User authentication is being performed with the help of Firebase in this application.)
+- Users can **browse** over a wide variety of shows, movies and series and explore them category wise as well.
+- Users can also **filter** the content by different *Genres*.
+- It also provides users ability to add their favorite shows & movies to their **watch list**.
 
 ## Tools & Technology Used:
 
